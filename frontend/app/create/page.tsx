@@ -14,8 +14,6 @@ import 'prismjs/components/prism-markup';
 import 'prismjs/components/prism-css';
 import 'prismjs/themes/prism-tomorrow.css';
 
-
-// ==============================
 // 1. 定数・初期データ
 const INITIAL_CODE = `<!DOCTYPE html>
 <html lang="ja">
